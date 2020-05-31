@@ -10,6 +10,9 @@ This demonstrates how to setup the I2C in master mode and using a DS1307 real ti
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
